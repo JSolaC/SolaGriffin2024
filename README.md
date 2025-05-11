@@ -1,6 +1,6 @@
-# SolaGriffin2024
+# SolaGriffin2025
 
-This repository provides the data and code used to produce the results presented in Sola & Griffin (2024): Towards the resolution of context-dependency in local heterogeneity - diversity relationships: evidence from rocky reefs worldwide. 
+This repository provides the data and code used to produce the results presented in Sola & Griffin (2025): Towards the resolution of context-dependency in local heterogeneity - diversity relationships: evidence from rocky reefs worldwide. 
 
 Following a metanalytical approach, heterogeneity effects in rocky reef literature were analysed to assess the effects of heterogeneity facet, organismal group, environmental context and ecological processes on the strength and shape of HDRs. This approach allowed to develop an operational framework of heterogeneity metrics linked to multiple forms of heterogeneity at the local scale, or ‘heterogeneity facets’ (e.g., Heidrich et al. 2020). 
 
